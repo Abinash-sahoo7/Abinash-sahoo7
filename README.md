@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently Working as an Jr. Software Developer at Concept Infoway Pvt .Ltd<br><br>👨‍💻 All of my projects are available at https://github.com/Abinash-sahoo7<br><br>💬 My Skills are Full Stack Developer in MERN Stack and ASP .NET Dev.<br><br>📫 How to reach me sahooabinash2003@gmail.com<br><br>⚡ Fun fact I think am an Funny Guy
+🌱 I’m currently Working as an Software Developer at Concept Infoway Pvt .Ltd<br><br>👨‍💻 All of my projects are available at https://github.com/Abinash-sahoo7<br><br>💬 My Skills are Full Stack Developer in MERN Stack and ASP .NET Dev.<br><br>📫 How to reach me sahooabinash2003@gmail.com<br><br>⚡ Fun fact I think am an Funny Guy
 
 
 ## 🌐 Socials:
